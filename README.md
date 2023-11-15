@@ -13,3 +13,4 @@
 <br>
 <br>
 ![image](https://github.com/itzyezz/Certifications/assets/105263523/7ed455fc-ef4c-43be-9367-f8980064cded)
+[CompTIA CySA+ ce certificate.pdf](https://github.com/edwinmelero/Certifications/files/13359276/CompTIA.CySA%2B.ce.certificate.pdf)
